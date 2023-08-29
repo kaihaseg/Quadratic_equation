@@ -1,4 +1,5 @@
-#include "constants.h"
+#include <stdio.h>
+#include <math.h>
 #include "math_functions.h"
 #include "TestMode.h"
 #include "input.h"
