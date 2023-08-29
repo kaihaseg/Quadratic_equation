@@ -1,4 +1,4 @@
-TARGET = Quadratic_Project
+TARGET = Quadratic_Project.exe
 CC = g++
 FLAGS = -Wshadow -Winit-self -Wredundant-decls -Wcast-align -Wundef -Wfloat-equal \
         -Winline -Wunreachable-code -Wmissing-declarations -Wmissing-include-dirs \
